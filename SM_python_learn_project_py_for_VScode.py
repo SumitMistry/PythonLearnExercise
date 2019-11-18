@@ -9,7 +9,7 @@
 10/5
 10//5
 
-'navin' + 'naviri' + 'navro' *10
+'navid' + 'navirdi' + 'nadro' *10
 
 print("navin's laptop")
 print('navin\'s "laptop"')
